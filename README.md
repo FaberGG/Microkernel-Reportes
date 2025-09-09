@@ -105,12 +105,6 @@ public class MyReportPlugin implements IReportPlugin {
 ### Pasos para Crear un Plugin
 
 1. **Crear nuevo proyecto Maven**:
-```bash
-mvn archetype:generate -DgroupId=co.unicauca.reportes.plugins \
-                       -DartifactId=mi-plugin-reporte \
-                       -DarchetypeArtifactId=maven-archetype-quickstart \
-                       -DinteractiveMode=false
-```
 
 2. **Configurar pom.xml**:
 ```xml
