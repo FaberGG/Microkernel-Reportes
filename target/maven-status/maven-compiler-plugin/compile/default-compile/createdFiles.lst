@@ -1,0 +1,5 @@
+co\unicauca\reportes\core\Application.class
+co\unicauca\reportes\core\ReportPluginManager.class
+co\unicauca\reportes\core\ReportService.class
+com\mycompany\report\core\ReportCore.class
+co\unicauca\reportes\core\ProjectService.class
